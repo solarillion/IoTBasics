@@ -1,4 +1,4 @@
-# Basics of Machine Learning
+# Basics of IOT/ Systems
 These assignments aim to introduce students to Machine Learning. Follow the instructions below to get started.
 
 ## Installing Requirements
